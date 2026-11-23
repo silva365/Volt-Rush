@@ -1,7 +1,5 @@
 # Volt-Rush
 
-# Bolt Bot
-
 A small arcade game where you steer a little robot around a workshop floor,
 collecting battery cells before its charge runs out.
 
